@@ -1,0 +1,16 @@
+# Env
+*/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+*.python-version
+
+# Claude
+.claude/

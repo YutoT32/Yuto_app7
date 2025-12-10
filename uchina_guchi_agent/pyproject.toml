@@ -1,0 +1,13 @@
+[project]
+name = "uchina-guchi-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "a2a-sdk==0.2.8",
+    "click>=8.2.1",
+    "dotenv>=0.9.9",
+    "google-adk==1.4.2",
+    "python-dotenv>=1.1.0",
+]
